@@ -1,6 +1,6 @@
 #!neme= ChinaGeoIP
 #!desc=
 #!author= @Facecent, @可莉
-#!homepage=
+#!homepage= https://github.com/facecent/ProxyStorehouse/blob/main/Rule/ChinaGeoIP.list
 
 GEOIP,CN
