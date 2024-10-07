@@ -1,2 +1,2 @@
 # ProxyStorehouse
-iOS Proxy App Storehouse
+Apple Proxy App Storehouse
