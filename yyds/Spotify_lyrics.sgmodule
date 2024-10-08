@@ -1,5 +1,5 @@
 #!name= Spotify歌词增强
-#!desc=Spotify歌词增强及双语模块
+#!desc= 将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。
 #!openUrl=http://boxjs.com/#/app/DualSubs.Spotify
 #!author=VirgilClyne
 #!homepage=https://github.com/DualSubs
