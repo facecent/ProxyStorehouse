@@ -1,6 +1,6 @@
 #!name= Script-Hub
 #!desc= 将其他工具的Rewrite、Rule和JavaScript资源转换为Surge能识别的格式。
-#!author= xream[https://github.com/xream], Keywos[https://github.com/Keywos], CKYB[https://github.com/CKYB], 小白脸
+#!author= xream[https://github.com/xream], Keywos[https://github.com/Keywos], CKYB[https://github.com/CKYB], luestr[https://github.com/luestr], 小白脸
 #!arguments= Notify:开启通知
 #!arguments-desc= Notify:\nScriptHub通知设置, 可选 开启通知, 关闭通知, 跟随链接
 
