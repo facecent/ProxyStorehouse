@@ -1,7 +1,6 @@
-#!name=Spotify(>=iOS15)
-#!desc=2024.05.27 部分解锁premium,音质不能设置为超高(建议登录后再打开脚本,重启app等待脚本生效)
+#!name= Spotify去广告
+#!desc= 过滤Spotify播放广告，移除随机播放，恢复歌手和专辑列表的正常展示。建议重新登录并清除缓存，且音质不能设置为超高，仅建议iOS 15及以上设备使用。
 # 仓库地址 https://github.com/app2smile/rules
-# 功能: 1.去除播放广告 2.歌手/专辑列表正常展示 3.去除随机播放
 
 [Header Rewrite]
 # if-none-match返回304状态码
