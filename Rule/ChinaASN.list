@@ -1,6 +1,6 @@
 #!name= ChinaASN
 #!desc= 按ASN分流中国大陆IP与域名直连
-#!author= @facecent， @VirgilClyne
+#!author= @facecent, @VirgilClyne
 #!homepage= https://github.com/facecent/ProxyStorehouse/blob/main/README.md
 
 IP-ASN,4134 // 中国电信骨干网
