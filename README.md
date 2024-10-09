@@ -1,4 +1,4 @@
-### Facecent的 Loon 资源
+### Facecent 的 Loon 资源
 
 ------
 
@@ -23,30 +23,6 @@
 [Loon 官方网站](https://nsloon.app/)          [Loon 官方文档](https://nsloon.app/docs/intro/)          [Loon 商店地址](https://apps.apple.com/app/loon/id1373567447)
 
 [Loon 官方群组](https://t.me/Loon0x00)          [Loon 官方频道](https://t.me/LoonNews)
-
-------
-
-#### 配置模板
-
-> [!TIP]
-> 详细阅读不同配置的说明，选择合适的配置模板事半功倍。
-
-[最小配置](https://t.me/ibilibili/135)      [进阶配置](https://t.me/ibilibili/136)
-
-[手动配置](https://t.me/ibilibili/163)      [无脑配置](https://t.me/ibilibili/165)
-
-[基础配置](https://t.me/ibilibili/442)      [回国配置](https://t.me/ibilibili/321)
-
-[tvOS 配置](https://t.me/ibilibili/432)
-
-------
-
-#### Example Configuration for Loon in English
-
-> [!TIP]
-> Foreigners click on the link below to find the configuration template
-
-[Configuration Examples](https://t.me/ibilibili/492)
 
 ------
 
@@ -641,6 +617,3 @@
 </table>
 
 ------
-
-#### 配置图解
-![ConfigurationDiagram](https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Config/zh-CN/Resource/ConfigurationDiagram.png)
