@@ -1,5 +1,5 @@
 #!neme= LAN
-#!desc= 可匹配局域网IP地址和.local后缀，请注意该规则集会触发 DNS 请求。
+#!desc= 可匹配局域网IP地址和.local后缀，请注意该规则集会触发DNS请求。
 #!author= @Facecent, @blackmatrix7
 #!homepage= https://github.com/facecent/ProxyStorehouse/blob/main/README.md
 
