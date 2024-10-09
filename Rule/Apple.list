@@ -3,6 +3,7 @@
 #!author= @facecent, @blackmatrix7
 #!homepage= https://github.com/facecent/ProxyStorehouse/blob/main/README.md
 
+DOMAIN-SUFFIX,apple.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
