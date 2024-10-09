@@ -1,7 +1,7 @@
 #!neme= LAN
-#!desc=
+#!desc= 可匹配局域网IP地址和.local后缀，请注意该规则集会触发 DNS 请求。
 #!author= @Facecent, @可莉
-#!homepage= https://github.com/facecent/ProxyStorehouse/blob/main/Rule/LAN.list
+#!homepage= https://github.com/facecent/ProxyStorehouse/blob/main/README.md
 
 IP-CIDR, 28.0.0.1/8 // Clash.meta's Fake IP
 IP-CIDR, 198.18.0.1/16 // Clash.meta's Fake IP
