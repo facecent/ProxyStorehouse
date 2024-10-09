@@ -1,6 +1,6 @@
 ### facecent 的 Loon 资源
 
-纂写于 [luestr 文档](https://github.com/luestr/ProxyResource/blob/main/README.md)
+转写于 [luestr 文档](https://github.com/luestr/ProxyResource/blob/main/README.md)
 
 ------
 
