@@ -1,4 +1,5 @@
 ### Facecent 的 Loon 资源
+> 撰写与 [luestr 文档](https://github.com/luestr/ProxyResource/blob/main/README.md)
 
 ------
 
