@@ -1,6 +1,6 @@
 #!neme= ChinaGeoIP
 #!desc= 分流IP地理位置数据库为中国大陆境内
 #!author= @facecent, @luestr
-#!homepage= https://github.com/facecent/ProxyStorehouse/blob/main/README.md
+#!homepage= https://github.com/facecent/iDuoDuo/blob/main/README.md
 
 GEOIP,CN
