@@ -5,7 +5,7 @@
 #!arguments-desc=
 
 [URL Rewrite]
-# 使用说明：https://github.com/facecent/ProxyStorehouse/blob/main/yyds/QuickSearch.md
+# 使用说明：https://github.com/facecent/iDuoDuo/blob/main/Plugin/QuickSearch.md
 ^https:\/\/duckduckgo.com\/\?q=bd\+([^&]+).+ https://www.baidu.com/s?wd=$1 302
 ^https:\/\/duckduckgo.com\/\?q=ydimg\+([^&]+).+ https://yandex.com/images/touch/search?lr=10636&text=$1 302
 ^https:\/\/duckduckgo.com\/\?q=bdimg\+([^&]+).+ https://image.baidu.com/search/index?tn=baiduimage&word=$1 302
